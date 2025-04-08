@@ -1,4 +1,4 @@
-# O11y's Handbook
+# O11y React Handbook
 
 this repo contains a skeleton React project that leverages Nx
 
