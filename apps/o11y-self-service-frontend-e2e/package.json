@@ -1,0 +1,10 @@
+{
+  "name": "o11y-self-service-frontend-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "o11y-self-service-frontend"
+    ]
+  }
+}

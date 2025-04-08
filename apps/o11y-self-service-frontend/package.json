@@ -1,0 +1,17 @@
+{
+  "name": "o11y-self-service-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=20"
+  },
+  "sideEffects": false,
+  "nx": {
+    "name": "o11y-self-service-frontend"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
